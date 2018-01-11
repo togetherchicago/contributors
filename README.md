@@ -6,3 +6,4 @@ Add your name to the list below:
 * Mo Zebdi
 * Karan Kwatra
 * Ryan Ma
+* Katy Madier
