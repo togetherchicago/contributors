@@ -7,3 +7,6 @@ Add your name to the list below:
 * Karan Kwatra
 * Rachael Park
 * Ryan Ma
+* Katy Madier
+* Ben Heath
+* Yazmon Ector
