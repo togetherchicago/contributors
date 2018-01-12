@@ -8,3 +8,4 @@ Add your name to the list below:
 * Ryan Ma
 * Katy Madier
 * Ben Heath
+*Yazmon Ector
